@@ -10,10 +10,10 @@ end
 def argue(name)
   name
 end
-
+greeting = "Hi there, "
+name = "Bobby!"
 def greeting(greeting,name)
-    puts "#{greeting}
-
+    puts "#{greeting} ,#{name}
 end
 
 def return_a_value
