@@ -12,7 +12,7 @@ def argue(name)
 end
 
 def greeting(greeting,name)
-    greeting
+    puts "#{greeting}
 
 end
 
