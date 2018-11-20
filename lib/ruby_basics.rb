@@ -11,7 +11,7 @@ def argue(name)
   name
 end
 
-def greeting(greeting, name)
+def greeting(greeting, name = "Bobby!")
 
 end
 
